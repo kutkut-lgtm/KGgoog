@@ -21,6 +21,7 @@ h3 {
 
 body {
   background-image: url(Pictures/Website\ background/5073414.jpg);
+  background-position: fixed;
 }
 
 .navbar ul {
